@@ -1,16 +1,19 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=35&duration=2000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=<Heyy+There!;This+is+SHANMUKH./>" alt="Typing SVG" /></a>
 
-<!--
-**Shanmukh025/Shanmukh025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a name="connect-with-me"></a>
+### Connect with me!🤳
+<table>
+    <tbody>
+        <tr>
+            <td><a href="https://t.me/shanmukh25">
+            <img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg/>
+            </a></td>
+            <td><a href="https://www.linkedin.com/in/shanmukh-anaparthi/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+            <td><a href="">
+            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            </a></td>
+        </tr>
+    </tbody>
+</table>
