@@ -48,16 +48,16 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="https://www.linkedin.com/in/shanmukh-anaparthi/ target="_blank"">
+            <td><a href="https://www.linkedin.com/in/shanmukh-anaparthi/" target="_blank"">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/>
             </a></td>
-            <td><a href="mailto:shanmukh2564@gmail.com target="_blank"">
+            <td><a href="mailto:shanmukh2564@gmail.com" target="_blank"">
             <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
             </a></td>
-            <td><a href="https://t.me/shanmukh25 target="_blank"">
+            <td><a href="https://t.me/shanmukh25" target="_blank"">
             <img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"/>
             </a></td>
-            <td><a href="https://wa.me/+919490804533 target="_blank"">
+            <td><a href="https://wa.me/+919490804533" target="_blank"">
             <img height="50" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"/>
             </a></td>
         </tr>
