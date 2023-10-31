@@ -2,12 +2,18 @@
 
 <a href="http://shanmukhanaparthi.pythonanywhere.com/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=010&pause=10000000000000000000&color=F76011&center=true&vCenter=true&random=false&width=1000&lines=My+Portfolio%3A+http%3A%2F%2Fshanmukhanaparthi.pythonanywhere.com%2F" alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shanmukh025&label=Profile%20views&color=0e75b6&style=flat" alt="Shanmukh025" /> </p>
+
+### About me
+* 🏫 KL University, Andhra Pradesh.
+* 🔭 I’m currently learning DEVOPS.
+* 🌱 I’m currently working on Springboot.
+* 🤝 I’m looking to collaborate on Django, MERN Projects.
+* ❤️ I love Full-Stack Development.
 
 
 ---
 
-## MY SKILLS
+## My Skills👨‍💻
 ### Languages
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
