@@ -5,14 +5,14 @@
 <table>
     <tbody>
         <tr>
-            <td><a href="https://t.me/shanmukh25">
-            <img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg/>
+            <td><a href="mailto:shanmukh2564@gmail.com">
+            <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
             </a></td>
             <td><a href="https://www.linkedin.com/in/shanmukh-anaparthi/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/>
             </a></td>
-            <td><a href="">
-            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            <td><a href="https://t.me/shanmukh25">
+            <img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"/>
             </a></td>
         </tr>
     </tbody>
