@@ -28,10 +28,19 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+
+---
+## Github Stats📈
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shanmukh025&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shanmukh025&show_icons=true"/>
+
+---
 <a name="connect-with-me"></a>
-### Connect with me!🤳
+## Connect with me!🤳
 <table>
     <tbody>
         <tr>
@@ -50,3 +59,4 @@
         </tr>
     </tbody>
 </table>
+
