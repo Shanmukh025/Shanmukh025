@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=35&duration=2000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=<Heyy+There!;This+is+SHANMUKH./>" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=35&duration=2000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=<Heyy+There!;This+is+SHANMUKH./>" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=010&pause=10000000000000000000&color=F76011&random=false&width=800&lines=My+Portfolio%3A+http%3A%2F%2Fshanmukhanaparthi.pythonanywhere.com%2F" alt="Typing SVG" /></a>
+<a href="http://shanmukhanaparthi.pythonanywhere.com/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=010&pause=10000000000000000000&color=F76011&random=false&width=800&lines=My+Portfolio%3A+http%3A%2F%2Fshanmukhanaparthi.pythonanywhere.com%2F" alt="Typing SVG" /></a>
 
 <a name="connect-with-me"></a>
 ### Connect with me!🤳
