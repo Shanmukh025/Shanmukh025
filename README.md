@@ -2,14 +2,12 @@
 
 <a href="http://shanmukhanaparthi.pythonanywhere.com/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=010&pause=10000000000000000000&color=F76011&center=true&vCenter=true&random=false&width=1000&lines=My+Portfolio%3A+http%3A%2F%2Fshanmukhanaparthi.pythonanywhere.com%2F" alt="Typing SVG" /></a>
 
-
 ### About me
 * 🏫 KL University, Andhra Pradesh.
 * 🔭 I’m currently learning DEVOPS.
 * 🌱 I’m currently working on Springboot.
 * 🤝 I’m looking to collaborate on Django, MERN Projects.
 * ❤️ I love Full-Stack Development.
-
 
 ---
 
