@@ -6,7 +6,7 @@
 * 🏫 KL University, Andhra Pradesh.
 * 🔭 I’m currently learning DEVOPS.
 * 🌱 I’m currently working on Springboot.
-* 🤝 I’m looking to collab on Django, MERN Projects.
+* 🤝 I’m looking to collab on Django and MERN Projects.
 * ❤️ I love Full-Stack Development.
 
 ---
