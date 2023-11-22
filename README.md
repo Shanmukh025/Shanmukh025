@@ -57,9 +57,6 @@
             <td><a href="https://t.me/shanmukh25" target="_blank"">
             <img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"/>
             </a></td>
-            <td><a href="https://wa.me/+919490804533" target="_blank"">
-            <img height="50" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"/>
-            </a></td>
         </tr>
     </tbody>
 </table>
