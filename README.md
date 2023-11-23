@@ -4,7 +4,7 @@
 
 ### About me
 * 🏫 KL University, Andhra Pradesh.
-* ♣️ Google Dev Club Leader
+* ♣️ Google Dev. Student Club Leader.
 * 🔭 I’m currently learning DEVOPS.
 * 🌱 I’m currently working on Springboot.
 * 🤝 I’m looking to collab on Django and MERN Projects.
