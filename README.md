@@ -14,9 +14,9 @@
 
 ## My Projects💻
 
-[Personal Portfolio Website](http://shanmukhanaparthi.pythonanywhere.com/){:target="_blank"}.
-[Loan Management System](http://shanmukh04.pythonanywhere.com/){:target="_blank"}.
-[Password Generator](https://shanmukh025.github.io/PassGen/){:target="_blank"}.
+* Personal Portfolio Website : [http://shanmukhanaparthi.pythonanywhere.com/](http://shanmukhanaparthi.pythonanywhere.com/).
+* Loan Management System : [http://shanmukh04.pythonanywhere.com/](http://shanmukh04.pythonanywhere.com/).
+* Password Generator : [https://shanmukh025.github.io/PassGen/](https://shanmukh025.github.io/PassGen/).
 
 
 ---
