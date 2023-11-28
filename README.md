@@ -17,7 +17,6 @@
 * Loan Management System : [http://shanmukh04.pythonanywhere.com/](http://shanmukh04.pythonanywhere.com/).
 * Password Generator : [https://shanmukh025.github.io/PassGen/](https://shanmukh025.github.io/PassGen/).
 
-
 ---
 
 ## My Skills👨‍💻
