@@ -4,7 +4,7 @@
 ### About me
 * 🏫 KL University, Andhra Pradesh.
 * ♣️ Google Dev. Student Club Leader.
-* 🎓Zuno Community Captain
+* 🎓 Zuno Community Captain
 * 🔭 I’m currently learning DEVOPS.
 * 🌱 I’m currently working on Springboot.
 * 🤝 I’m looking to collab on Fullstack Projects.
