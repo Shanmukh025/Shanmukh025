@@ -7,8 +7,7 @@
 * 🎓 Zuno Community Captain.
 * 🔭 I’m currently learning DEVOPS.
 * 🌱 I’m currently working on Springboot.
-* 🤝 I’m looking to collab on Fullstack Projects.
-* ❤️ I love Full-Stack Development.
+* ❤️ Aim to become DevOps Engineer.
 
 ---
 
