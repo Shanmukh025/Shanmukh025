@@ -7,9 +7,7 @@
 * 🔭 I’m currently learning DEVOPS.
 * 🌱 I’m currently working on Springboot.
 * ❤️ Aim to become DevOps Engineer.
-
 ---
-
 ## My Projects🚀
 
 * Personal Portfolio Website : [http://shanmukhanaparthi.pythonanywhere.com/](http://shanmukhanaparthi.pythonanywhere.com/).
