@@ -69,6 +69,9 @@
             <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
             </a></td>
             <td><a href="https://t.me/shanmukh25" target="_blank"">
+            <img height="25" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png"/>
+            </a></td>
+            <td><a href="https://t.me/shanmukh25" target="_blank"">
             <img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"/>
             </a></td>
         </tr>
