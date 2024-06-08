@@ -3,7 +3,7 @@
 ### About me
 * 🏫 KL University, Andhra Pradesh.
 * ♣️ Google Dev. Student Club Leader.
-* 🎓 Zuno Community Captain.
+* 🎓 HackerEarth Campus Ambassador.
 * 🔭 I’m currently learning DEVOPS.
 * 🌱 I’m currently working on Springboot.
 * ❤️ Aim to become DevOps Engineer.
