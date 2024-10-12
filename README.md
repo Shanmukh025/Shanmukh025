@@ -12,9 +12,11 @@
 
 ## My Projects🚀
 
-* My Portfolio Website : [https://shanmukh25.vercel.app/](https://shanmukh25.vercel.app/).
-* Google Developer Club Official Website : [https://gdscklef.netlify.app/](https://gdscklef.netlify.app/).
+* Developer Portfolio : [https://shanmukh25.vercel.app/](https://shanmukh25.vercel.app/).
+* Social Media : [https://xspark.vercel.app/](https://xspark.vercel.app/).
+* SmartLists : [http://smartlist.pythonanywhere.com/](http://smartlist.pythonanywhere.com/).
 * Netflix Clone : [https://net-flixclone.surge.sh/](https://net-flixclone.surge.sh/).
+* Google Developer Club Official Website : [https://gdscklef.netlify.app/](https://gdscklef.netlify.app/).
 * Password Generator : [https://shanmukh025.github.io/PassGen/](https://shanmukh025.github.io/PassGen/).
 * Loan Management System : [http://shanmukh04.pythonanywhere.com/](http://shanmukh04.pythonanywhere.com/).
 
