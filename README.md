@@ -14,6 +14,7 @@
 
 * Developer Portfolio : [https://shanmukh25.vercel.app/](https://shanmukh25.vercel.app/).
 * Social Media : [https://xspark.vercel.app/](https://xspark.vercel.app/).
+* AI Logo Generator : [https://logoai.onrender.com/](https://logoai.onrender.com/).
 * SmartLists : [http://smartlist.pythonanywhere.com/](http://smartlist.pythonanywhere.com/).
 * Netflix Clone : [https://net-flixclone.surge.sh/](https://net-flixclone.surge.sh/).
 * Google Developer Club Official Website : [https://gdscklef.netlify.app/](https://gdscklef.netlify.app/).
