@@ -39,18 +39,18 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 
 ### Frameworks
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 
 ### DevOps
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 
 ### Tools
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
